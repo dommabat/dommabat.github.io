@@ -1,5 +1,3 @@
-Domma Bat
-
 Welcome to my personal portfolio repository.
 
 🌐 Portfolio: https://dommabat.github.io
